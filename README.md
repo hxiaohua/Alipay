@@ -1,4 +1,4 @@
-# Alipay
+# Alipay 当面付扫码支付接入PHP
 当面付扫码付
 
 ## 个人用户的扫码支付解决方案
@@ -15,4 +15,6 @@
 演示的Demo：https://www.dedemao.com/alipay/demo.html
 
 倒计时接口：http://www.likeyunba.com/demo/PAYDEMO/index.html
+
+监听版本：http://www.likeyunba.com/pay/
 
